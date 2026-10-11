@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-selenium",
+  "versions": [
+    {
+      "commit": "98de796ad4f86c983420a9e365b8bc5fe73aa1a8",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:31:59.138862+00:00"
+    }
+  ]
+}
